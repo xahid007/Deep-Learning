@@ -35,7 +35,7 @@ cd mnist-cnn
 2. Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook "MNIST Dataset CNN.ipynb"
+jupyter notebook "MNIST Dataset classification using CNN.ipynb"
 ```
 
 3. Run the notebook cells to train and evaluate the model.
