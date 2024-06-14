@@ -8,22 +8,28 @@ The MNIST dataset is a large database of handwritten digits that is commonly use
 
 ![](MNISTpng.png)
 
-## Installation
+Sure, here's the dependencies part with icons:
 
-To run this project, you need to have Python and the following libraries installed:
+---
 
-- PyTorch
-- torchvision
-- numpy
-- matplotlib
-- tqdm
-- scikit-learn
+## Dependencies
+
+This project requires the following libraries:
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![torchvision](https://img.shields.io/badge/torchvision-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black)
+![tqdm](https://img.shields.io/badge/tqdm-%2300BFFF.svg?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 You can install the required libraries using the following command:
 
 ```bash
 pip install torch torchvision numpy matplotlib tqdm scikit-learn
 ```
+
+---
 ## Model Architecture
 
 The CNN model used in this project consists of the following layers:
