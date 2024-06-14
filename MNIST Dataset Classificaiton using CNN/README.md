@@ -8,8 +8,6 @@ The MNIST dataset is a large database of handwritten digits that is commonly use
 
 ![](MNISTpng.png)
 
-Sure, here's the dependencies part with icons:
-
 ---
 
 ## Dependencies
