@@ -6,7 +6,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems. This project uses a CNN to classify the digits with high accuracy.
 
-![](MNIST Dataset Classificaiton using CNN/MNISTpng.png)
+![](MNISTpng.png)
 
 ## Installation
 
