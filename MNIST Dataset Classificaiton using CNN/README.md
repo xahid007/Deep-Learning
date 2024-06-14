@@ -70,6 +70,12 @@ Here's the results section with the accuracy by class presented in a table forma
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+Sure, here's the license part with the MIT license logo:
+
+---
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
