@@ -59,7 +59,7 @@ Here's the results section with the accuracy by class presented:
 | 9     | 98% (993/1009) |
 
 #### Overall Test Accuracy: 98% (9894/10000)
-
+---
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
