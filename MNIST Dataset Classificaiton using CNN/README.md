@@ -22,24 +22,6 @@ You can install the required libraries using the following command:
 ```bash
 pip install torch torchvision numpy matplotlib tqdm scikit-learn
 ```
-
-## Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/mnist-cnn.git
-cd mnist-cnn
-```
-
-2. Open the Jupyter Notebook:
-
-```bash
-jupyter notebook "MNIST Dataset classification using CNN.ipynb"
-```
-
-3. Run the notebook cells to train and evaluate the model.
-
 ## Model Architecture
 
 The CNN model used in this project consists of the following layers:
@@ -58,4 +40,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
