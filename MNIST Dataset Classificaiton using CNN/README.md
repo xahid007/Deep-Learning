@@ -39,11 +39,7 @@ The CNN model used in this project consists of the following layers:
 ## Results
 
 The model achieves a high accuracy on the MNIST test set. 
-Here's the results section with the accuracy by class presented in a table format:
-
----
-
-## Results
+Here's the results section with the accuracy by class presented:
 
 ### Test Loss: 0.032940
 
@@ -67,8 +63,6 @@ Here's the results section with the accuracy by class presented in a table forma
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-Sure, here's the license part with the MIT license logo:
 
 ---
 
